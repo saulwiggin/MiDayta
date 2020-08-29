@@ -1,0 +1,89 @@
+						Array
+(
+    [0] => Array
+        (
+            [sender_id] => 
+        )
+
+    [1] => Array
+        (
+            [sender_id] => 1
+        )
+
+    [2] => Array
+        (
+            [sender_id] => AC039
+        )
+
+    [3] => Array
+        (
+            [sender_id] => AW5678
+        )
+
+    [4] => Array
+        (
+            [sender_id] => BM036
+        )
+
+    [5] => Array
+        (
+            [sender_id] => CT033
+        )
+
+    [6] => Array
+        (
+            [sender_id] => ED040
+        )
+
+    [7] => Array
+        (
+            [sender_id] => ED041
+        )
+
+    [8] => Array
+        (
+            [sender_id] => ED042
+        )
+
+    [9] => Array
+        (
+            [sender_id] => ED043
+        )
+
+    [10] => Array
+        (
+            [sender_id] => ID1234
+        )
+
+    [11] => Array
+        (
+            [sender_id] => LCH044
+        )
+
+    [12] => Array
+        (
+            [sender_id] => NB035
+        )
+
+    [13] => Array
+        (
+            [sender_id] => PH034
+        )
+
+    [14] => Array
+        (
+            [sender_id] => PS037
+        )
+
+    [15] => Array
+        (
+            [sender_id] => PS038
+        )
+
+    [16] => Array
+        (
+            [sender_id] => WW056
+        )
+
+)
+<b></b>not email setemail not setnot email setemail not setnot email setemail not setnot email setemail not setnot email setemail not set<b>1</b>not email setemail not setnot email setemail not setnot email setemail not setnot email setemail not setnot email setemail not set<b>AC039</b>C01<br>alarm is not on for C0message is grt reset level with direction 1 for C0C12<br>alarm is not on for C1message is grt reset level with direction 1 for C1C22<br>alarm is not on for C2message is grt reset level with direction 1 for C2C38<br>alarm is not on for C3message is grt reset level with direction 1 for C3not email setemail not set<b>AW5678</b>not email setemail not setnot email setemail not setnot email setemail not setnot email setemail not setnot email setemail not set<b>BM036</b>C00C0not email setemail not setC10C1not email setemail not setC20C2not email setemail not setC30C3not email setemail not setnot email setemail not set<b>CT033</b>C12C1not email setemail not setC20C2not email setemail not setnot email setemail not setnot email setemail not setnot email setemail not set<b>ED040</b>C00<br>alarm is not on for C0message is grt reset level with direction 1 for C0C10<br>alarm is not on for C1message is grt reset level with direction 1 for C1C20<br>alarm is not on for C2message is grt reset level with direction 1 for C2C30<br>alarm is not on for C3message is grt reset level with direction 1 for C3not email setemail not set<b>ED041</b>C00<br>alarm is not on for C0message is grt reset level with direction 1 for C0C10<br>alarm is not on for C1message is grt reset level with direction 1 for C1C20<br>alarm is not on for C2message is grt reset level with direction 1 for C2C30<br>alarm is not on for C3message is grt reset level with direction 1 for C3not email setemail not set<b>ED042</b>C00<br>alarm is not on for C0message is grt reset level with direction 1 for C0C10<br>alarm is not on for C1message is grt reset level with direction 1 for C1C20<br>alarm is not on for C2message is grt reset level with direction 1 for C2C30<br>alarm is not on for C3message is grt reset level with direction 1 for C3not email setemail not set<b>ED043</b>C03<br>alarm is not on for C0message is grt reset level with direction 1 for C0C10<br>alarm is not on for C1message is grt reset level with direction 1 for C1C20<br>alarm is not on for C2message is grt reset level with direction 1 for C2C30<br>alarm is not on for C3message is grt reset level with direction 1 for C3not email setemail not set<b>ID1234</b>C00C0is too small. less than threshold20.00.At 0C0 is not onC10C1is too small. less than threshold20.00.At 0C1 is not onC20C2is too small. less than threshold20.00.At 0C2 is not onC30C3is too small. less than threshold20.00.At 0C3 is not onnot email setemail not set<b>LCH044</b>C00C0not email setemail not setC10C1not email setemail not setC20C2not email setemail not setC30C3not email setemail not setnot email setemail not set<b>NB035</b>C15C1not email setemail not setC20C2not email setemail not setnot email setemail not setnot email setemail not setnot email setemail not set<b>PH034</b>C10C1not email setemail not setC20C2not email setemail not setnot email setemail not setnot email setemail not setnot email setemail not set<b>PS037</b>C01C0not email setemail not setC160199C1not email setemail not setC20C2is too small. less than threshold30.00.At 0message is grt reset level with direction 1 for C2C30C3not email setemail not setnot email setemail not set<b>PS038</b>C00C0not email setemail not setC12066C1not email setemail not setC2474C2not email setemail not setC30C3not email setemail not setnot email setemail not set<b>WW056</b>C01C0not email setemail not setC15C1not email setemail not setC210C2not email setemail not setC320C3not email setemail not setnot email setemail not set
